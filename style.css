@@ -1,0 +1,29 @@
+body{
+    background-color: #070606;
+    font-family: Raleway, serif;
+    margin: 16px;
+}
+.hero{
+    margin: 16px;
+}
+.hero_Title{
+    color: #ffffff;
+    font-size: 50px;
+    max-width: 450px;
+    margin-bottom: 10px;
+}
+.hero_paragrafh{
+    color: #BDBDBD;
+    max-width: 400px;
+}
+.submit{
+    background-color: #2B892E;
+    border-radius: 18px;
+    border: 0;
+    padding: 10px 20px;
+    color: #ffffff;  
+    margin-bottom: 70px;
+}
+.hero_image{
+    max-width: 50%;
+}
